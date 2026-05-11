@@ -16,4 +16,4 @@ import requests
 print("Connecting to Global SMS Gateway...")
 print("System Status: Online")
 ### 💬 联系我们 (Contact Us)
-👉 **Telegram 客服:** [点击跳转联系](https://t.me/AK00091)
+👉 **Telegram 客服：** [点击跳转联系](https://t.me/AK00091)
