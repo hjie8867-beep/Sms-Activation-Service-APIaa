@@ -52,3 +52,4 @@ def check_status(api_key):
     return requests.get(url).json()
 
 # 更多示例请查看 /examples 文件夹
+。
